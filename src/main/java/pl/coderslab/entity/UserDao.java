@@ -1,6 +1,5 @@
 package pl.coderslab.entity;
 
-import DbUtil.DbUtil;
 import org.mindrot.jbcrypt.BCrypt;
 
 import java.sql.*;
